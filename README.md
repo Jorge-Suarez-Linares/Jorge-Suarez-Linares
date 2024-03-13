@@ -1,7 +1,9 @@
 -👋 Ciao, sono @Jorge-Suarez-Linares - ITA/ESP/ENG(B2)
 
 -👀 Sono interessato a lavorare come data scientist o con SQL
+
 -🌱 Attualmente sto scrivendo la mia tesi e il Project Work sulle tecniche di machine learning per il rilevamento dello spam via email
+
 -💞️ Sto cercando collaborazioni con chiunque possa aiutarmi nella ricerca di lavoro.
 -📫 Come contattarmi: jorgesuarezlinaresdata@gmail.com
 -📔 Laurea magistrale in 'Analisi e Modellizzazione dei Dati' presso l'Università degli Studi di Roma - UnitelmaSapienza (attualmente)
