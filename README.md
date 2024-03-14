@@ -17,6 +17,9 @@
 -📔 Laurea in Filosofia presso l'Università degli Studi di Verona
 
 
+
+
+
 -👋 Hi, I’m @Jorge-Suarez-Linares - ITA/ESP/ENG(B2)
 
 -👀 I am interested in working as a data scientist or with SQL
