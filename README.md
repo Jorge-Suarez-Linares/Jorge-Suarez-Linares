@@ -8,7 +8,7 @@
 
 -📫 Come contattarmi: jorgesuarezlinaresdata@gmail.com
 
--📔 Laurea magistrale in 'Analisi e Modellizzazione dei Dati' presso l'Università degli Studi di Roma - UnitelmaSapienza (attualmente)
+-📔 Master in 'Analisi e Modellizzazione dei Dati e dei Processi' presso l'Università degli Studi di Roma - UnitelmaSapienza (attualmente)
 
 -📔 Corso di specializzazione professionale "Data Science" presso Profession AI
 
