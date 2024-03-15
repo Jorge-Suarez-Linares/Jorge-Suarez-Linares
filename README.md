@@ -1,4 +1,4 @@
--👋 Ciao, sono @Jorge-Suarez-Linares - ITA/ESP/ENG(B2)
+-👋 Ciao, sono @Jorge-Suarez-Linares - ITA/ESP/ENG(B2) --- (This GitHub repository is under construction)
 
 -👀 Sono interessato a lavorare come data scientist o con SQL
 
