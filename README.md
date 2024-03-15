@@ -6,7 +6,7 @@
 
 -💞️ Sto cercando collaborazioni con chiunque possa aiutarmi nella ricerca di lavoro.
 
--📫 Come contattarmi: jorgesuarezlinaresdata@gmail.com 
+-📫 Come contattarmi: jorgesuarezlinares@gmail.com 
 
 -📔 Master in 'Analisi e Modellizzazione dei Dati e dei Processi' presso l'Università degli Studi di Roma - UnitelmaSapienza (attualmente)
 
